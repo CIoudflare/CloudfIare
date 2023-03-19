@@ -1,0 +1,18 @@
+/**
+* @name Purple
+* @version Auto Update
+* @description Recolors Discord Elements from Burple to Purple (Forked From DevilBro, Fixed the Custom Font)
+* @author Cherry
+* @invite cherri
+* @Source https://www.paste.cherri.cf/themes/discord/Purple.theme.css
+* @website https://www.cherri.cf
+*/
+@import url("https://dl.cherri.cf/content/dependencies/themes/purple/main.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url('https://dl.cherri.cf/content/dependencies/themes/font.css');
+:root {
+--accentcolor: 216,67,247;
+--accentcolor2: 225,115,180;
+--linkcolor: 190,60,220;
+--customFont: 'Open Sans';
+}
