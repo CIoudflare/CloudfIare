@@ -1,6 +1,6 @@
 yt:
 
-@friend (reserved custom url + invalid location + members only videos without partner + subtitles crash)
+@friend (reserved custom url + invalid location + members only videos without partner + subtitles crash + fully blank name w/ no characters)
 
 emails:
 
@@ -14,6 +14,11 @@ discord@cosmo.com
 minecraft@cosmo.com
 microsoft@cosmo.com
 tick@cosmo.com
+
+ebay:
+@assume
+@charge
+@javascript
 
 speedrun.com:
 
@@ -31,4 +36,4 @@ solo.to:
 
 discord:
 
-.gg/cherri (vanity exploit)
+.gg/cherri (vanity exploit) [PATCHED AS OF 2023]
